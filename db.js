@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
 
-const mongoURL = 'mongodb://localhost:27017/shopping'
+const mongoURL = 'mongodb+srv://satyamkumar6767:Gccw09r5VEiIEEAI@cluster0.qinup.mongodb.net/shopping'
 
 
 mongoose.connect(mongoURL,
